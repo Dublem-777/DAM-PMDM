@@ -12,8 +12,7 @@ tags:
 # 1 · Introducción a Kotlin
 
 > [!info] Asignatura
-> [[DAM/Programacion_Multimedia_y_Dispositivos_Moviles/Indice|Programación Multimedia y Dispositivos Móviles]] · Tema 1 · Kotlin
-> Fuente original: `Documentos/Notas/Introducción a Kotlin.md`
+> [[Indice|Programación Multimedia y Dispositivos Móviles]] · Tema 1 · Kotlin
 
 ## Índice del tema
 
@@ -187,9 +186,9 @@ val numbers: List<Int> = readln().split(' ').map { it.toInt() }
 
 ## Relaciones
 
-- Práctica: [[01.1 - Ejercicios 1 Introduccion a Kotlin]]
-- [[02 - Jerarquia de tipos]]
-- [[03 - Funciones]]
+- Ejercicios del tema: [[Tema 1/01.1 - Ejercicios 1 Introduccion a Kotlin]]
+- [[Tema 2/02 - Jerarquia de tipos]]
+- [[Tema 3/03 - Funciones]]
 
 ## Para repasar
 
